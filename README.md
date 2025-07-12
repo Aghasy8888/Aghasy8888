@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Aghasy Ghazaryan
 
-I'm a passionate **Front-End Developer** specializing in crafting responsive, high-performance web applications using modern frameworks and tools.  
-I combine clean code with smooth user experiences to help businesses and creators bring their ideas to life on the web.
+I'm a passionate **Front-End Developer** specializing in crafting responsive, high-performance web applications using modern frameworks and tools. I combine clean code with smooth user experiences to help businesses and creators bring their ideas to life on the web.
 
 ---
 
