@@ -35,6 +35,6 @@ I'm a passionate **Front-End Developer** specializing in crafting responsive, hi
 
 Feel free to reach out if you'd like to collaborate, need help with a project, or just want to chat about front-end development.
 
-📧 Email: [aghas.ghazaryan@esterox.am](mailto:aghas.ghazaryan@esterox.am)  
-🌐 Portfolio: [https://github.com/Aghas-Esterox](https://github.com/Aghas-Esterox)  
-💼 LinkedIn: [https://www.linkedin.com/in/aghasy-ghazaryan-8bba8a244/](https://www.linkedin.com/in/aghasy-ghazaryan-8bba8a244/)
+📧 Email: [aghasghazaryan8888@gmail.com](mailto:aghas.ghazaryan@esterox.am)  
+🌐 Portfolio: [[https://github.com/Aghas-Esterox](https://github.com/Aghasy8888)] 
+💼 LinkedIn: [[https://www.linkedin.com/in/aghasy-ghazaryan-8bba8a244/](https://www.linkedin.com/in/aghasy-ghazaryan-8bba8a244/)
