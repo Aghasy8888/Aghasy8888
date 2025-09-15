@@ -36,5 +36,6 @@ I combine clean code with smooth user experiences to help businesses and creator
 
 Feel free to reach out if you'd like to collaborate, need help with a project, or just want to chat about front-end development.
 
-📧 Email: [aghasghazaryan8888@gmail.com](mailto:aghasghazaryan8888@gmail.com)
+📧 Email: [aghasghazaryan8888@gmail.com](mailto:aghasghazaryan8888@gmail.com)  
+
 💼 LinkedIn: [https://www.linkedin.com/in/aghasy-ghazaryan-8bba8a244/](https://www.linkedin.com/in/aghasy-ghazaryan-8bba8a244/)
